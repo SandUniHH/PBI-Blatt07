@@ -1,0 +1,13 @@
+number of leaves: 2971
+number of internal nodes: 101
+the text of the 10 most branching nodes, with its number of children:
+19	Escherichia_coli_O145.NM
+20	Escherichia_coli_B_str._REL607
+22	Escherichia_coli_str._K-12_substr._MG1655
+28	Escherichia_coli_O121.H19
+32	Escherichia_coli_O111.NM
+34	Escherichia_coli_O26.H11
+49	Escherichia_coli_B_str._REL606
+66	Escherichia_coli_O104.H4
+136	Escherichia_coli_O157.H7
+2487	Escherichia_coli
